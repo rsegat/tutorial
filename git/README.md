@@ -1,7 +1,6 @@
 # A basic knowledge about git for beginners
 
-## How to ...:
-<br>
+## How to ...:<br><br>
 
 ### Clone a repository
 
